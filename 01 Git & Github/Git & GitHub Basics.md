@@ -1,4 +1,4 @@
-# Git & GitHub 기본
+# Git & GitHub Basics
 
 ## Linux
 
