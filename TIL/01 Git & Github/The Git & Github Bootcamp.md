@@ -15,8 +15,7 @@
 - Software that tracks and manages changes to files over time.
   - to revisit earlier versions of the files
   - to compare changes between versions
-  - to undo changes
-  - etc..
+  - to undo changes (etc..)
 
 ### Git 🆚 Github
 
