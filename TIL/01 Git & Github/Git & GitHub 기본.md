@@ -84,7 +84,7 @@
 
 <br />
 
-<img src='../Git & Github/img/Git Workflow.png' />
+<img src='img/Git Workflow.png' />
 
 <br />
 
