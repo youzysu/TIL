@@ -54,10 +54,15 @@
 
 ### 📌 Command mode
 
+#### Normal Mode
+
 - `:q` - quit
 - `:q!` - quit discarding all changes
 - `:w` - write
 - `:wq` - write and quit
+- `dd` - delete a line
+- `p` - paste a line
+- `u` - undo
 
 ## Git
 
@@ -91,6 +96,7 @@
 #### 로컬에서 먼저 디렉토리 생성한 경우
 
 - `git init` 사용하기 전 반드시 유의하기!
+- `origin` remote(원격 저장소)의 address를 의미한다.
 
 ```
 $ mkdir {reponame}
