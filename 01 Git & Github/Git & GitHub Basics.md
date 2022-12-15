@@ -63,6 +63,7 @@
 - `dd` - delete a line
 - `p` - paste a line
 - `u` - undo
+- `shift` + `Y` - copy line
 
 ## Git
 
