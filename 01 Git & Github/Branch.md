@@ -58,7 +58,7 @@
 
 <br />
 
-## 📌 Git flow Command
+## 📌 Command by Git-flow
 
 ### Initialize
 
@@ -75,7 +75,6 @@
 - `git flow release finish {version}`
   - release commit
   - release note
-  - ex.
 
 ### Push
 
