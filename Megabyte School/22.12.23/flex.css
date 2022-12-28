@@ -1,0 +1,30 @@
+.search {
+  display: flex;
+  width: 350px;
+  position: relative;
+  // gap
+}
+.search input {
+  flex-grow: 1;
+  border: 2px solid #38ce60;
+  border-radius: 100px 0 0 100px; // 시계방향으로
+  outline: none;
+  padding: 0 20px;
+}
+.search button {
+  flex-shrink: 0;
+  background-color: #38ce60;
+  border: none;
+  color: #fff;
+  width: 60px;
+  height: 50px;
+  border-radius: 0 100px 100px 0;
+}
+.search .material-symbols-outlined {
+  height: 24px;
+  position: absolute;
+  margin: auto 0;
+  top: 0;
+  bottom: 0;
+  right: 70px;
+}

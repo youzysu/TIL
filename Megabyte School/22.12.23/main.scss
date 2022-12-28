@@ -1,0 +1,16 @@
+nav {
+  border: 2px solid red($color: #d21a1a);
+  width: 300px;
+  height: 100vh;
+  box-sizing: border-box;
+  h1 {
+    border: 2px solid;
+  }
+  ul {
+    border: 2px solid;
+  }
+  .foot {
+    flex-shrink: 0;
+    border: 2px solid;
+  }
+}
